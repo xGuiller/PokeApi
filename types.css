@@ -1,0 +1,213 @@
+span img{
+    width: 15px;
+    margin-right: 10px;
+}
+
+.card__type span{
+    text-transform: uppercase;
+    font-weight: bold;
+    color:white;
+
+}
+
+.normal{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(165, 165, 159);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+
+.grass{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(91, 192, 114);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.steel{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(86, 165, 168);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.water{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(92, 167, 220);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.bug{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(163, 198, 49);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.dark{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(102, 103, 120);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.dragon{ 
+    display: flex;
+    width: auto;
+    background-color: rgb(8, 119, 191);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.electric{ 
+    display: flex;
+    width: auto;
+    background-color:rgb(248, 221, 100);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.fairy{ 
+    display: flex;
+    width: auto;
+    background-color: #F1A3E3;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.fighting{ 
+    display: flex;
+    width: auto;
+    background-color: #DE4454;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.fire{ 
+    display: flex;
+    width: auto;
+    background-color: #FFA74F;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.flying{ 
+    display: flex;
+    width: auto;
+    background-color: #A4BFED;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.ghost{ 
+    display: flex;
+    width: auto;
+    background-color: #5A6CB5;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.ground{ 
+    display: flex;
+    width: auto;
+    background-color: #D49767;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.ice{ 
+    display: flex;
+    width: auto;
+    background-color: #8FDBD5;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.poison{ 
+    display: flex;
+    width: auto;
+    background-color: #C361D3;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.psychic{ 
+    display: flex;
+    width: auto;
+    background-color: #FC928D;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+.rock{ 
+    display: flex;
+    width: auto;
+    background-color: #D5C992;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+}
+
+
